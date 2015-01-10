@@ -9,5 +9,5 @@ Application can be compiled for Windows and/or Linux.
 
 Documentation is in the "srs and sdd" folder
 
-Administator privilages are required to run this program.
+Administator privileges are required to run this program.
 
